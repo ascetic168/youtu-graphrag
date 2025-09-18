@@ -256,4 +256,7 @@ We welcome contributions from the community! Here's how you can help:
 }
 ```
 
+---
+## Star History
 
+[![Star History Chart](https://api.star-history.com/svg?repos=TencentCloudADP/youtu-graphrag&type=Date)](https://www.star-history.com/#TencentCloudADP/youtu-graphrag&Date)
