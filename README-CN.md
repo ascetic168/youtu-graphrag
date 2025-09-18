@@ -6,6 +6,7 @@
 [![Documentation](https://img.shields.io/badge/Paper-Latest-blue.svg)](Youtu-GraphRAG.pdf)
 [![WeChat Community](https://img.shields.io/badge/Community-WeChat-32CD32)](assets/wechat_qr.png)
 [![Discord](https://img.shields.io/badge/Community-Discord-8A2BE2)](https://discord.gg/QjqhkHQVVM)
+[![GitHub stars](https://img.shields.io/github/stars/TencentCloudADP/youtu-graphrag?style=social)](https://github.com/TencentCloudADP/youtu-graphrag)
 
 *🚀 重新定义图检索增强推理范式，以33.6%的Token成本节约和16.62%的精度提升实现帕累托改进*
 
@@ -248,5 +249,7 @@ curl -v http://localhost:8000
       url={https://arxiv.org/abs/2508.19855}, 
 }
 ```
+---
+## Star History
 
-<!-- [![GitHub stars](https://img.shields.io/github/stars/youtu-graphrag/youtu-graphrag?style=social)](https://github.com/youtu-graphrag/youtu-graphrag) -->
+[![Star History Chart](https://api.star-history.com/svg?repos=TencentCloudADP/youtu-graphrag&type=Date)](https://www.star-history.com/#TencentCloudADP/youtu-graphrag&Date)
