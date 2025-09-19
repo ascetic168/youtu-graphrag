@@ -25,3 +25,4 @@ retriever/faiss_cache_new/*
 docker/Dockerfile
 
 CLAUDE.md
+CC_BRANCH_README.md
